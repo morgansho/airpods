@@ -54,6 +54,7 @@ body {
   /* background: linear-gradient(180deg, #cadbeb 0%, #ebebeb 100%); */
   /* background: linear-gradient(180deg, #cadbeb 0%, rgba(235, 235, 235, 0) 100%); */
   min-height: 100vh;
+  /* min-height: 100vh; */
 }
 
 .header__top {
